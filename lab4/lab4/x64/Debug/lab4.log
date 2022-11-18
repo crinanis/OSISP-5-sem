@@ -1,0 +1,4 @@
+﻿D:\Program\Visual Studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  OS04_01.cpp
+D:\1POIT\3\ОСиСП\Лабы\lab4\lab4\OS04_01.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab4.vcxproj -> D:\1POIT\3\ОСиСП\Лабы\lab4\x64\Debug\OS04_01.exe
