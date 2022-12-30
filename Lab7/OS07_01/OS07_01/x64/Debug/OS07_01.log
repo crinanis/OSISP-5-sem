@@ -1,0 +1,18 @@
+﻿  OS07_01.cpp
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(23,26): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(23,61): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(55,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(57,3): error C2065: lock: необъявленный идентификатор
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(57,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bts"
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(57,8): error C2065: bts: необъявленный идентификатор
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(57,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check"
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(58,3): error C2065: jc: необъявленный идентификатор
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(58,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "CriticalSection"
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(58,6): error C2065: CriticalSection: необъявленный идентификатор
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(59,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(63,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(63,7): error C2065: lock: необъявленный идентификатор
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(63,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "btr"
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(63,12): error C2065: btr: необъявленный идентификатор
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(63,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check"
+C:\University_work\3k1sem\OS\Lab7\OS07_01\OS07_01\OS07_01.cpp(64,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
